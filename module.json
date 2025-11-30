@@ -1,0 +1,16 @@
+{
+    "metamodule": false,
+    "summary": "Systemless hosts for APatch / KernelSU / Magisk ",
+    "sourceUrl": "https://github.com/KernelSU-Modules-Repo/bindhosts",
+    "additionalAuthors": [
+        {
+            "type": "add",
+            "name": "xx && KOWX712",
+            "link": "https://github.com/bindhosts/bindhosts"
+        },
+        {
+            "type": "remove",
+            "name": "KOWX712"
+        }
+    ]
+}
